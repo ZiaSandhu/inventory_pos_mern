@@ -1,0 +1,8 @@
+20240605	19:16:42	e4f37807-d2a1-4a27-9521-66ad292775dd	SequelizeDatabaseError: Unknown column 'createdAt' in 'field list'	GET	/api/users	undefined
+20240605	19:17:04	07419103-7949-42d8-8b3e-9e80cf622435	SequelizeDatabaseError: Unknown column 'createdAt' in 'field list'	GET	/api/users	undefined
+20240605	19:20:17	45fd8d10-4726-4596-ab41-e43810f00c56	SyntaxError: Expected double-quoted property name in JSON at position 59 (line 5 column 1)	POST	/api/users	undefined
+20240605	19:20:22	01f7c620-86f2-40d8-8634-e67b17d21338	SequelizeDatabaseError: Unknown column 'createdAt' in 'field list'	POST	/api/users	undefined
+20240605	22:04:44	d5f3cae3-b891-4591-a7ee-6d4a873f132a	SequelizeValidationError: notNull Violation: User.email cannot be null,
+notNull Violation: User.roleId cannot be null	POST	/api/users	undefined
+20240605	22:05:43	d501e9e7-b313-44e0-9d79-2722192998b5	SequelizeValidationError: notNull Violation: User.roleId cannot be null	POST	/api/users	undefined
+20240605	22:06:49	1792cd6f-6bf4-41a5-a8e7-3d24e82afc23	SequelizeDatabaseError: Unknown column 'createdAt' in 'field list'	POST	/api/users	undefined
